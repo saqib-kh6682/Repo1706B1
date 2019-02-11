@@ -30,5 +30,5 @@ function validate() {
     {
         $('#Country').css('border-color', 'lightgrey');
     }
-    return isValid;
+    return not Valid;
 }
